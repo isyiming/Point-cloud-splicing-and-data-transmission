@@ -1,0 +1,13 @@
+﻿生成启动时间为 2016/8/13 10:32:12。
+     1>项目“C:\Projects\WinSockClientKinectColorDepthInTwoPackages\WinSockClientKinectColorDepthInTwoPackages\WinSockClientKinectColorDepthInTwoPackages.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WinSockClientKinectColorDepthInTwoPackages.cpp
+         WinSockClientKinectColorDepthInTwoPackages.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Projects\WinSockClientKinectColorDepthInTwoPackages\Debug\WinSockClientKinectColorDepthInTwoPackages.exe" /INCREMENTAL /NOLOGO Kinect20.lib Kinect20.Face.lib Kinect20.Fusion.lib Kinect20.VisualGestureBuilder.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Projects\WinSockClientKinectColorDepthInTwoPackages\Debug\WinSockClientKinectColorDepthInTwoPackages.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Projects\WinSockClientKinectColorDepthInTwoPackages\Debug\WinSockClientKinectColorDepthInTwoPackages.lib" /MACHINE:X86 Debug\WinSockClientKinectColorDepthInTwoPackages.obj
+         WinSockClientKinectColorDepthInTwoPackages.vcxproj -> C:\Projects\WinSockClientKinectColorDepthInTwoPackages\Debug\WinSockClientKinectColorDepthInTwoPackages.exe
+     1>已完成生成项目“C:\Projects\WinSockClientKinectColorDepthInTwoPackages\WinSockClientKinectColorDepthInTwoPackages\WinSockClientKinectColorDepthInTwoPackages.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.98

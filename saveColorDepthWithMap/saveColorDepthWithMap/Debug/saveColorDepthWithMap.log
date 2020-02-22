@@ -1,0 +1,18 @@
+﻿生成启动时间为 2016/8/12 19:50:47。
+     1>项目“E:\My_workspace\VS2012\保存Kinect深度图和彩图\保存Kinect深度图和彩图（带坐标映射）\saveColorDepthWithMap\saveColorDepthWithMap\saveColorDepthWithMap.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\saveColorDepthWithMap.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt saveColorDepthWithMap.cpp
+         saveColorDepthWithMap.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\My_workspace\VS2012\保存Kinect深度图和彩图\保存Kinect深度图和彩图（带坐标映射）\saveColorDepthWithMap\Debug\saveColorDepthWithMap.exe" /INCREMENTAL /NOLOGO Kinect20.lib Kinect20.Face.lib Kinect20.Fusion.lib Kinect20.VisualGestureBuilder.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\My_workspace\VS2012\保存Kinect深度图和彩图\保存Kinect深度图和彩图（带坐标映射）\saveColorDepthWithMap\Debug\saveColorDepthWithMap.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\My_workspace\VS2012\保存Kinect深度图和彩图\保存Kinect深度图和彩图（带坐标映射）\saveColorDepthWithMap\Debug\saveColorDepthWithMap.lib" /MACHINE:X86 Debug\saveColorDepthWithMap.obj
+         saveColorDepthWithMap.vcxproj -> E:\My_workspace\VS2012\保存Kinect深度图和彩图\保存Kinect深度图和彩图（带坐标映射）\saveColorDepthWithMap\Debug\saveColorDepthWithMap.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\saveColorDepthWithMap.unsuccessfulbuild”。
+         正在对“Debug\saveColorDepthWithMap.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\My_workspace\VS2012\保存Kinect深度图和彩图\保存Kinect深度图和彩图（带坐标映射）\saveColorDepthWithMap\saveColorDepthWithMap\saveColorDepthWithMap.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.81
